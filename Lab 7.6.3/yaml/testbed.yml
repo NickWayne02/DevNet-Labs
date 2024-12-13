@@ -1,0 +1,13 @@
+devices:
+  CSR1kv:
+    os: iosxe
+    type: CSR1000V
+    connections:
+      default:
+        protocol: ssh
+        ip: 172.17.0.1  # Замените на реальный IP-адрес вашего устройства
+        port: 22  # Порт подключения (обычно 22 для SSH)
+    credentials:
+      default:
+        username: gergus  # Замените на имя пользователя вашего устройства
+        password: 2833  # Замените на пароль устройства

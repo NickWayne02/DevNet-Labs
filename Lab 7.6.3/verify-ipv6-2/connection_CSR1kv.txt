@@ -1,0 +1,10 @@
+
+2024-12-04 20:38:12,442: %UNICON-INFO: +++ CSR1kv logfile verify-ipv6-1/connection_CSR1kv.txt +++
+
+2024-12-04 20:38:12,442: %UNICON-INFO: +++ Unicon plugin iosxe (unicon.plugins.iosxe) +++
+ssh: connect to host 172.17.0.1 port 22: Connection refused
+
+
+2024-12-04 20:38:12,466: %UNICON-INFO: +++ connection to spawn: ssh -l gergus 172.17.0.1 -p 22, id: 134848750099520 +++
+
+2024-12-04 20:38:12,467: %UNICON-INFO: connection to CSR1kv
